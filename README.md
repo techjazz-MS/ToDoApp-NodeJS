@@ -1,6 +1,6 @@
 # ToDo-List Application 
 
-Image Hosting Application made using:
+ToDo List Application made using:
 
 | Node JS | Express | Database: MongoDB |  
 |---------|---------|-------------------|
